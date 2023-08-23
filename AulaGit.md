@@ -31,7 +31,7 @@ para vincular esse repósitorio local a um repositório remoto criado no github 
 #### 📍git remote add origin link.do.repositorio
 Em seguida usar o:
 #### 📍git branch -M main
-para criar e ir para o branch main e em seguida usar o:
+para renomear a branch:
 #### 📍git push -u origin main
 para fazer o primeiro upload no repositório remoto.
 
