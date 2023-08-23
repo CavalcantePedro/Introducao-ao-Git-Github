@@ -41,6 +41,8 @@ para fazer o primeiro upload no repositório remoto.
 Verificar o status dos arquivos  no repositório (se estão adicionados ou não)
 #### 📍git status
 
+Para ver as diferenças explicitamente basta usar:
+#### 📍git diff
 ---
 
 Para adicionar as mudanças existem comandos difrentes:
@@ -61,7 +63,10 @@ Para subir os commits para a nuvem:
 Para baixar as diferenças que estão na nuvem:
 #### 📍git pull
 
+---
 
+Para ver todos os commits feitos durante a vida do repositório use:
+#### 📍git log
 
 
 
