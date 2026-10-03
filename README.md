@@ -68,6 +68,12 @@ Para baixar as diferenças que estão na nuvem:
 Para ver todos os commits feitos durante a vida do repositório use:
 #### 📍git log
 
+---
+
+• Criar e mudar para uma nova branch: git checkout -b nome-da-branch
+• Listar as branches existentes: git branch
+• Mudar de uma branch para outra: git checkout nome-da-branch
+• Juntar as alterações na versão principal: git merge nome-da-branch
 
 
 
